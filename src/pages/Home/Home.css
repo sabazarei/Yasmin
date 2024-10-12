@@ -1,0 +1,42 @@
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+.title{
+    color:black;
+    font-size: 40px;
+    margin: 50px 0 10px 0;
+}
+
+.card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-col{
+    padding: 16px;
+    width: 20%;
+}
+
+/*why card style*/
+.why-container{
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+.why-card-title{
+    color:black;
+    font-size: 40px;
+    margin: 90px 35px 40px 0;
+}
+
+.why-card-wrapper{
+    display: flex; 
+    flex-wrap: wrap;
+}
+
+.why-card-col{
+    padding: 16px;
+    width: 33%;
+}

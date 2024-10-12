@@ -1,0 +1,85 @@
+.container{
+    margin: 0 auto;
+    /* max-width: 1200px; */
+}
+
+.product-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image-col{ 
+    margin: 60px 0;
+}
+
+.image-col img{
+    width: 350px;
+    border: 1px solid rgb(186, 193, 191);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.body-col{
+    /* border: 1px solid lightgray; */
+    padding: 20px;
+    margin: 40px 100px 0 0;
+    width: 500px;
+    height: 500px;
+    padding: 10px 30px 0 0;
+}
+
+.name{
+    color: black;
+    font-size: 35px;
+}
+
+.price{
+    font-size: 25px;
+    margin-top: 20px;
+    font-weight:600;
+    border-bottom: 0.6px solid black;
+    display: inline-block;
+}
+
+.body-col ul{
+    margin-right: 15px;
+    font-size: 18px;
+    margin-top: 55px;
+}
+
+.color-select{
+    margin-top: 40px;
+}
+
+.color-select label{
+    font-size: 20px;
+}
+
+.select{
+    width: 95%;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:rgb(241, 241, 237);
+}
+
+.size-select{
+    margin-top: 15px;
+}
+
+
+
+.size-select label{
+    font-size: 20px;
+}
+
+.submit-btn{
+    margin-top: 45px;
+    border: none;
+    background: rgb(58,180,164);
+    background: linear-gradient(90deg, rgba(58,180,164,1) 0%, rgba(253,235,29,1) 50%, rgba(252,176,69,1) 100%);
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 15px;
+    width: 95%;
+}
+

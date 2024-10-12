@@ -1,0 +1,32 @@
+.why-card{
+    width: 70%;
+    height: 320px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    padding-top: 15px;
+    margin-right: 50px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+
+.why-card-header{
+    background-color: wheat;
+    border-radius: 50%;
+    margin:auto;
+    padding: 50px;
+    width: 180px;
+    height: 180px;
+    font-size: 80px;
+}
+
+.why-title{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.why-desc{
+    text-align: center;
+    margin: 10px 0;
+    padding: 10px 5px;
+}

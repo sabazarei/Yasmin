@@ -1,0 +1,144 @@
+{
+    "clothesInfo":[
+        {
+            "id":1,
+            "name":"کاپشن چرم",
+            "image":"https://i.pinimg.com/564x/ca/9a/3e/ca9a3ea1259feb4b3be425f544523864.jpg",
+            "price":"1,700,000",
+            "desc":"جنس کاپشن از چرم درجه یک است"
+        },
+        {
+            "id":2,
+            "name":"کاپشن الیاف",
+            "image":"https://i.pinimg.com/236x/9b/d7/12/9bd712b54af20b76b195532f780af429.jpg",
+            "price":"1,650,000",
+            "desc":"جنس کاپشن از الیاف درجه یک است"
+        },
+        {
+            "id":3,
+            "name":"کاپشن الیاف",
+            "image":"https://i.pinimg.com/564x/0e/96/35/0e9635ad4fe33ae5faf6cce57c797174.jpg",
+            "price":"1,800,000",
+            "desc":"جنس کاپشن از الیاف درجه یک است"
+        },
+        {
+            "id":4,
+            "name":"کاپشن پر",
+            "image":"https://i.pinimg.com/564x/ea/6a/4a/ea6a4a9fe5c15c125cf48634df326abb.jpg",
+            "price":"1,900,000",
+            "desc":"جنس کاپشن از پر درجه یک است"
+        },
+        {
+            "id":5,
+            "name":"کاپشن پر",
+            "image":"https://i.pinimg.com/564x/d7/5c/5d/d75c5d1eda2cc4f05b55b0f511df9a3c.jpg",
+            "price":"1,500,000",
+            "desc":"جنس کاپشن از پر درجه یک است"
+        },
+        {
+            "id":6,
+            "name":"کت سنتی",
+            "image":"https://i.pinimg.com/736x/e9/10/33/e910334c466f1e9fbe79b6c43d669125.jpg",
+            "price":"1,500,000",
+            "desc":"جنس کت از لنین است"
+        },
+        {
+            "id":7,
+            "name":"کت سنتی",
+            "image":"https://i.pinimg.com/564x/5f/92/a9/5f92a9017657ab711b5412e42bc7f3a6.jpg",
+            "price":"1,400,000",
+            "desc":"جنس کت از لنین است"
+        },
+        {
+            "id":8,
+            "name":"کت سنتی",
+            "image":"https://i.pinimg.com/564x/2c/47/a4/2c47a4aeb7f4c1b9ee1b6b7112ede892.jpg",
+            "price":"1,250,000",
+            "desc":"جنس کت از لنین است"
+        },
+        {
+            "id":9,
+            "name":"مانتو سنتی",
+            "image":"https://i.pinimg.com/564x/f2/b3/9b/f2b39bb4e7ea5fbd8b094f6546f47d55.jpg",
+            "price":"1,200,000",
+            "desc":"جنس مانتو از لنین است"
+        },
+        {
+            "id":10,
+            "name":"کت طرح ساده",
+            "image":"https://i.pinimg.com/736x/0c/40/a7/0c40a76c8444ef1017a3e55ace9779ca.jpg",
+            "price":"1,300,000",
+            "desc":"جنس کت از لنین است"
+        },
+        {
+            "id":11,
+            "name":"تیشرت طرح گرگ",
+            "image":"https://i.pinimg.com/736x/1b/bb/ed/1bbbed9364475dfea747fb45b7a39a2c.jpg",
+            "price":"320,000",
+            "desc":"جنس تیشرت از نخ و پنبه است"
+        },
+        {
+            "id":12,
+            "name":"تیشرت طرح سیاره",
+            "image":"https://i.pinimg.com/564x/13/dd/92/13dd9264a5e8e057024857f62e66d4c8.jpg",
+            "price":"280,000",
+            "desc":"جنس تیشرت از نخ و پنبه است"
+        },
+        {
+            "id":13,
+            "name":"تیشرت طرح کت",
+            "image":"https://i.pinimg.com/564x/7c/9e/73/7c9e733cc13cf0da8a259fb06b7f6dd1.jpg",
+            "price":"290,000",
+            "desc":"جنس تیشرت از نخ و پنبه است"
+        },
+        {
+            "id":14,
+            "name":"تیشرت طرح کت",
+            "image":"https://i.pinimg.com/736x/ed/60/b7/ed60b76257551172f3ba6d2c392ff800.jpg",
+            "price":"310,000",
+            "desc":"جنس تیشرت از نخ و پنبه است"
+        },
+        {
+            "id":15,
+            "name":"تیشرت طرح روح",
+            "image":"https://i.pinimg.com/564x/2e/b1/62/2eb162d5a83d059e7d784143f3afa8da.jpg",
+            "price":"300,000",
+            "desc":"جنس تیشرت از نخ و پنبه است"
+        },
+        {
+            "id":16,
+            "name":"هودی کراپ مولیان",
+            "image":"https://i.pinimg.com/564x/b9/f1/8c/b9f18c031cb1fb41a76c512bcc8311d1.jpg",
+            "price":"680,000",
+            "desc":"جنس هودی ،دورس گلگسی می باشد.دارای بند قابل تنظیم در قسمت کلاه است."
+        },
+        {
+            "id":17,
+            "name":"هودی کراپ مولیان",
+            "image":"https://i.pinimg.com/564x/44/0d/44/440d4442fdf840bcd631a68cf5f2c7d6.jpg",
+            "price":"630,000",
+            "desc":"جنس هودی ،دورس گلگسی می باشد.دارای بند قابل تنظیم در قسمت کلاه است."
+        },
+        {
+            "id":18,
+            "name":"هودی کراپ مولیان",
+            "image":"https://i.pinimg.com/564x/a7/95/87/a7958710151f3aa78ecac4e8f6603f88.jpg",
+            "price":"700,000",
+            "desc":"جنس هودی ،دورس گلگسی می باشد.دارای بند قابل تنظیم در قسمت کلاه است."
+        },
+        {
+            "id":19,
+            "name":"هودی کراپ مولیان",
+            "image":"https://i.pinimg.com/564x/5b/cc/df/5bccdf14c6a0d1fdb83ca8d244bf736e.jpg",
+            "price":"720,000",
+            "desc":"جنس هودی ،دورس گلگسی می باشد.دارای بند قابل تنظیم در قسمت کلاه است."
+        },
+        {
+            "id":20,
+            "name":"هودی کراپ مولیان",
+            "image":"https://i.pinimg.com/564x/24/a4/96/24a4967675cc2116b392a5cba5c69ca0.jpg",
+            "price":"650,000",
+            "desc":"جنس هودی ،دورس گلگسی می باشد.دارای بند قابل تنظیم در قسمت کلاه است."
+        }
+    ]
+}
